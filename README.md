@@ -1,5 +1,5 @@
 <h1>
-	engineer, Entrepreneur
+	Software Engineer, Entrepreneur
 </h1>
 
 <h2>
