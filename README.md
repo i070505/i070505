@@ -1,3 +1,3 @@
 <h1>
-	developer, Software Creator
+	engineer, Entrepreneur
 </h1>
