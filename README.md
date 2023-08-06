@@ -1,3 +1,3 @@
 <h1>
-	developer, creator
+	developer, Software Creator
 </h1>
