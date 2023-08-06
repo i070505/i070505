@@ -1,3 +1,3 @@
 <h1>
-	developer, chief architect
+	developer, creator
 </h1>
